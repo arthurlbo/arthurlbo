@@ -12,7 +12,9 @@ Always looking to improve myself day by day, giving my best in every project and
 
 More than code, I believe every detail matters, like the structure of your project, all the decisions you make and how you're going to manage schedules, demands, contingencies, teamwork, all the things behind it, but that's the part more important.
 
-I'm a Frontend Developer working for being a full cycle, studying software engineering at Universidade Positivo and taking courses on Udemy. I'm proud with that, but a far cry from what I set out to achieve, I have several goals that I know its just time and a lot of work to build it. 
+I'm a Frontend Developer working for being a full cycle, studying software engineering at Positivo university and taking courses on Udemy. I'm proud with that, but a far cry from what I set out to achieve, I have several goals that I know its just time and a lot of work to build it. 
 
 I work using technologies like <strong>React and TypeScript</strong>, there is nothing more satisfying than a good page or web app, with a clean code and minimalist design. More than that, what drives me is helping and impacting people's lives.
+
+> Rest at the end, not in the middle. - Kobe Bryant
 
