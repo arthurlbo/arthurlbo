@@ -1,6 +1,6 @@
 
 
-Frontend Developer, Technology and Design enthusiast, with ambition and focus to be a reference in what I do :rocket: :purple_heart:
+Frontend Developer, Technology and Design enthusiast, with ambition and focus to be a reference in what I do :rocket: :white_heart:
 
 [![Instagram Badge](https://img.shields.io/badge/-@arthurlbo-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/arthur.lbo)](https://www.instagram.com/arthur.lbo)
 [![Linkedin Badge](https://img.shields.io/badge/-arthurlbo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurlbo)](https://www.linkedin.com/in/arthurlbo)
