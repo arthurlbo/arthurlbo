@@ -14,5 +14,5 @@ I work using technologies like <strong>React and TypeScript</strong>, there is n
 
 At the moment I'm studying software engineering and doing my best to qualify myself more and more. I make a lot of effort to maintain my routine and be a disciplined person, giving my best in everything I do. For me there is no other alternative to conquer and reach my goals.
 
-> Rest at the end, not in the middle. - Kobe Bryant
+> Dedication makes dreams come true. - Kobe Bryant
 
