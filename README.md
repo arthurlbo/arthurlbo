@@ -1,6 +1,6 @@
 
 
-Frontend Developer, Technology and Design enthusiast, with ambition and focus to be a reference in what I do :rocket: :white_heart:
+Frontend Developer, Technology and Design enthusiast, with ambition and focus to be a reference in what I do :rocket:
 
 [![Instagram Badge](https://img.shields.io/badge/-@arthurlbo-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/arthur.lbo)](https://www.instagram.com/arthur.lbo)
 [![Linkedin Badge](https://img.shields.io/badge/-arthurlbo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurlbo)](https://www.linkedin.com/in/arthurlbo)
@@ -10,11 +10,9 @@ Frontend Developer, Technology and Design enthusiast, with ambition and focus to
 
 Always looking to improve myself day by day, giving my best in every project and impact people's lives.
 
-More than code, I believe every detail matters, like the structure of your project, all the decisions you make and how you're going to manage schedules, demands, contingencies, teamwork, all the things behind it, but that's the part more important.
+I work using technologies like <strong>React and TypeScript</strong>, there is nothing more satisfying than a good page or web app, with a clean code and minimalist design.
 
-I'm a Frontend Developer working for being a full cycle, studying software engineering at Positivo university and taking courses on Udemy. I'm proud with that, but a far cry from what I set out to achieve, I have several goals that I know its just time and a lot of work to build it. 
-
-I work using technologies like <strong>React and TypeScript</strong>, there is nothing more satisfying than a good page or web app, with a clean code and minimalist design. More than that, what drives me is helping and impacting people's lives.
+At the moment I'm studying software engineering and doing my best to qualify myself more and more. I make a lot of effort to maintain my routine and be a disciplined person, giving my best in everything I do. For me there is no other alternative to conquer and reach my goals.
 
 > Rest at the end, not in the middle. - Kobe Bryant
 
