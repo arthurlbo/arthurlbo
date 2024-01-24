@@ -20,5 +20,10 @@ I'm a Front-end development enthusiast, specializing in engineering seamless use
 
 ### Stats
 
-| <a href="https://github.com/arthurlbo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurlbo&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Arthur's github stats" /></a> | <a href="https://github.com/arthurlbo"><img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlbo&layout=compact&theme=dark" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/arthurlbo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurlbo&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Arthur's github stats" /> 
+</a> 
+
+<a href="https://github.com/arthurlbo">
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlbo&layout=compact&theme=dark" /> 
+</a>
