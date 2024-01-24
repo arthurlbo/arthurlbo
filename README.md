@@ -37,6 +37,7 @@ I'm a Front-end development enthusiast, specializing in engineering seamless use
 ![SASS Badge](https://img.shields.io/badge/-sass-151515?style=for-the-badge&logo=sass)
 ![JQuery Badge](https://img.shields.io/badge/-jquery-151515?style=for-the-badge&logo=jquery&logoColor=0769ad)
 ![PWA Badge](https://img.shields.io/badge/-pwa-151515?style=for-the-badge&logo=pwa&logoColor=5F17CA)
+![JWT Badge](https://img.shields.io/badge/-jwt-151515?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Node JS Badge](https://img.shields.io/badge/-node_js-151515?style=for-the-badge&logo=node.js)
 ![Express Badge](https://img.shields.io/badge/-express_js-151515?style=for-the-badge&logo=express)
 ![Prisma Badge](https://img.shields.io/badge/-prisma-151515?style=for-the-badge&logo=prisma)
@@ -57,10 +58,7 @@ I'm a Front-end development enthusiast, specializing in engineering seamless use
 
 ### Stats
 
-<a href="https://github.com/arthurlbo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurlbo&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Arthur's github stats" /> 
-</a> 
+| <a href="https://github.com/arthurlbo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurlbo&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Arthur's github stats" /></a> | <a href="https://github.com/arthurlbo"><img align="center" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlbo&layout=compact&theme=dark&hide_border=true" alt="Arthur's github languages" /></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/arthurlbo">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlbo&layout=compact&theme=dark" /> 
-</a>
+
