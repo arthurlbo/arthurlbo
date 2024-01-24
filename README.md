@@ -4,11 +4,11 @@
 I'm a Front-end development enthusiast, specializing in engineering seamless user experiences across different devices. With focus on React and TypeScript, I transform ideas into high-performance web apps.
 \
 \
-[![Instagram Badge](https://img.shields.io/badge/-@arthurlbo-151515?style=flat-square&labelColor=151515&logo=instagram&logoColor=white&link=https://www.instagram.com/arthur.lbo)](https://www.instagram.com/arthur.lbo)
-[![Linkedin Badge](https://img.shields.io/badge/-arthurlbo-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurlbo)](https://www.linkedin.com/in/arthurlbo)
-[![Site Badge](https://img.shields.io/badge/-arthurlbo.dev-151515?style=flat-square&logo=react&logoColor=white&labelColor=151515&link=https://arthurlbo-dev.vercel.app)](https://arthurlbo-dev.vercel.app)
-[![Gmail Badge](https://img.shields.io/badge/-arthurlbo16@gmail.com-151515?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurlbo16@gmail.com)](mailto:arthurlbo16@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthurlbo%2Fhit-counter&count_bg=%23151515&title_bg=%23151515&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Instagram Badge](https://img.shields.io/badge/-@arthurlbo-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://www.instagram.com/arthur.lbo)](https://www.instagram.com/arthur.lbo)
+[![Linkedin Badge](https://img.shields.io/badge/-arthurlbo-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurlbo)](https://www.linkedin.com/in/arthurlbo)
+[![Site Badge](https://img.shields.io/badge/-arthurlbo.dev-00875f?style=flat-square&logo=react&logoColor=white&labelColor=00875f&link=https://arthurlbo-dev.vercel.app)](https://arthurlbo-dev.vercel.app)
+[![Gmail Badge](https://img.shields.io/badge/-arthurlbo16@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurlbo16@gmail.com)](mailto:arthurlbo16@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthurlbo%2Fhit-counter&count_bg=%2300875f&title_bg=%2300875f&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 #
 
 ### Technologies
