@@ -10,7 +10,7 @@ I'm a Front-end development enthusiast, specializing in engineering seamless use
 [![Gmail Badge](https://img.shields.io/badge/-arthurlbo16@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurlbo16@gmail.com)](mailto:arthurlbo16@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthurlbo%2Fhit-counter&count_bg=%236633CC&title_bg=%236633CC&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
----
+#
 
 ### Technologies
 
@@ -54,7 +54,7 @@ I'm a Front-end development enthusiast, specializing in engineering seamless use
 ![Figma Badge](https://img.shields.io/badge/-figma-151515?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-linux-151515?style=for-the-badge&logo=linux&logoColor=white)
 
----
+#
 
 ### Stats
 
