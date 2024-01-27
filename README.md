@@ -10,7 +10,7 @@ I'm a 20-year-old developer based in Brazil, specializing in engineering seamles
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
 
-**Backend Development:** `Node.js` `Express.js` `Fastify` `Prisma` `PostgreSQL` 
+**Backend Development:** `Node.js` `Express.js` `Fastify` `Prisma` `PostgreSQL` `SQLite`
 
 **Mobile Development:** `React Native` `Expo`
 
