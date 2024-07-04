@@ -1,26 +1,30 @@
 
 ### Hey, I'm Arthur 👋 
 
-I'm a 20-year-old developer based in Brazil, specializing in engineering exceptional user experiences across different devices. With focus on React and TypeScript, I transform ideas into high-performance web apps.
+I'm a 20-year-old software engineer based in Brazil, specializing in React and TypeScript, I help companies create optimized and pixel-perfect user interfaces, focusing on user experience, performance and maintainability.
 
 - Check out my [website](https://arthurlobo.com) to learn more about me.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/arthurlbo) and [Instagram](https://www.instagram.com/arthur.lbo).
+- More about my career [LinkedIn](https://www.linkedin.com/in/arthurlbo).
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+**Languages:** `JavaScript` `TypeScript` `PHP`
 
-**Backend Development:** `Node.js` `Express.js` `Fastify` `Prisma` `PostgreSQL` `SQL`
+**Frontend Development:** `React` `Next.js` `Vite` `Redux` `Context API` `React Query` `Apollo Client` `i18n` `PWA` `IndexedDB` `Storybook` `Framer Motion` `Tailwind CSS` `Radix UI` `Chrakra UI` `styled-components`
 
 **Mobile Development:** `React Native` `Expo`
 
-**Testing:** `Cypress` `Jest` `Testing library` `Vitest` `Insomnia`
+**Backend Development**: `Node.js`, `Nest.js`, `Fastify`, `Express`, `JWT`, `REST APIs`
+
+**Database**: `Prisma`, `TypeORM`, `PostgreSQL`, `MySQL`
+
+**Testing:** `Cypress` `Jest` `Supertest` `Vitest` `Insomnia`
 
 **Version Control:** `Git`
 
-**CI/CD:** `Github Actions` 
+**CI/CD:** `Github Actions`
 
-**Others:** `Redux` `ReactQuery` `i18n` `PWA` `Storybook` `Linux` `Sentry` `Figma`
+**Tools and Platforms**: `Docker` `Sentry` `Figma`
 
 ## 📫 Contact
 
