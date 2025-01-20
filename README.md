@@ -1,7 +1,7 @@
 
 ### Hey, I'm Arthur 👋 
 
-I'm a 20-year-old software engineer based in Brazil, specializing in React and TypeScript, I help companies create optimized and pixel-perfect user interfaces, focusing on user experience, performance and maintainability.
+I'm a 21-year-old software engineer based in Brazil, specializing in React and TypeScript, I help companies create optimized and pixel-perfect user interfaces, focusing on user experience, performance and maintainability.
 
 - Check out my [website](https://arthurlobo.com) to learn more about me.
 - More about my career [LinkedIn](https://www.linkedin.com/in/arthurlbo).
