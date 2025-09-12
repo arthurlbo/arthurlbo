@@ -1,30 +1,27 @@
 
 ### Hey, I'm Arthur 👋 
 
-I'm a 21-year-old software engineer based in Brazil, specializing in React and TypeScript, I help companies create optimized and pixel-perfect user interfaces, focusing on user experience, performance and maintainability.
+Full Stack Software Engineer with 3+ years of experience building scalable, high-performance web solutions using React, Next.js, TypeScript, and NodeJS. My work is driven by clean architecture, responsive design, and a strong focus on user experience, driving business growth and enhancing customer satisfaction. Experienced in collaborating with remote, distributed teams and solving complex problems in fast-paced, cross-cultural environments.
 
-- Check out my [website](https://arthurlobo.com) to learn more about me.
-- More about my career [LinkedIn](https://www.linkedin.com/in/arthurlbo).
+I’m passionate about scalable architectures, Formula 1, and coffee. When I’m not immersed in code, you’ll find me spending time with my wife, hitting the gym, playing games, or practicing martial arts. I’m open to new opportunities, feel free to connect.
+
+More about my career [LinkedIn](https://www.linkedin.com/in/arthurlbo).
 
 ## 📦 Toolbox
 
-**Languages:** `JavaScript` `TypeScript` `PHP`
+`NodeJS` `JavaScript` `TypeScript` `PHP`
 
-**Frontend Development:** `React` `Next.js` `Vite` `Redux` `Context API` `React Query` `Apollo Client` `i18n` `PWA` `IndexedDB` `Storybook` `Framer Motion` `Tailwind CSS` `Radix UI` `Chrakra UI` `styled-components`
+`REST`, `GraphQL`, `WebSocket`
 
-**Mobile Development:** `React Native` `Expo`
+`HTML`, `CSS`, `React.js`, `Next.js`, `Vite`, `PWA`, `Socket.IO`, `Apollo Client`, `ReactQuery`, `Zustand`, `Redux`, `IndexedDB`, `JQuery`, `Ajax`, `Tailwind CSS`, `ChakraUI`, `styled-components`, `MUI`, `StoryBook`
 
-**Backend Development**: `Node.js`, `Nest.js`, `Fastify`, `Express`, `JWT`, `REST APIs`
+`React Native` `Expo`
 
-**Database**: `Prisma`, `TypeORM`, `PostgreSQL`, `MySQL`
+`NestJS`, `Express`, `Fastify`, `MySQL`, `PostgreSQL`, `SQL Server`, `MongoDB`, `MQTT`, `BullMQ`, `Redis`, `Prisma`, `TypeORM`
 
-**Testing:** `Cypress` `Jest` `Supertest` `Vitest` `Insomnia`
+`Docker`, `Kubernetes`, `Terraform`, `Nginx`, `AWS`, `Azure`, `CI/CD`
 
-**Version Control:** `Git`
-
-**CI/CD:** `Github Actions`
-
-**Tools and Platforms**: `Docker` `Sentry` `Figma`
+`Jest`, `Cypress`, `Supertest`, `Sentry`, `Git`, `Figma`
 
 ## 📫 Contact
 
