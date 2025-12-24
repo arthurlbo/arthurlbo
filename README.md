@@ -1,7 +1,7 @@
 
 ### Hey, I'm Arthur 👋 
 
-Full Stack Software Engineer with 3+ years of experience building scalable, high-performance web solutions using React, Next.js, TypeScript, and NodeJS. My work is driven by clean architecture, responsive design, and a strong focus on user experience, driving business growth and enhancing customer satisfaction. Experienced in collaborating with remote, distributed teams and solving complex problems in fast-paced, cross-cultural environments.
+Senior Software Engineer with 4+ years of experience building scalable, high-performance web solutions using React, Next.js, TypeScript, and NodeJS. My work is driven by clean architecture, responsive design, and a strong focus on user experience, driving business growth and enhancing customer satisfaction. Experienced in collaborating with remote, distributed teams and solving complex problems in fast-paced, cross-cultural environments.
 
 I’m passionate about scalable architectures, Formula 1, and coffee. When I’m not immersed in code, you’ll find me spending time with my wife, hitting the gym, playing games, or practicing martial arts. I’m open to new opportunities, feel free to connect.
 
